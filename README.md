@@ -1,8 +1,24 @@
 # 🛡️ Phishing Email Detector
-
 A Python-based cybersecurity application designed to identify potential phishing emails through suspicious keyword detection, URL extraction, and risk classification.
 
 The project combines a Python detection engine with an interactive Streamlit dashboard to make email security analysis more accessible and understandable.
+
+### 🚀 Live Demo
+
+[**Open Phishing Email Detector**](https://phishing-email-detector-8xp...streamlit.app/)
+
+### Technologies
+- Python
+- Streamlit
+- Regular Expressions (re)
+- Git & GitHub
+
+### Features
+- Suspicious keyword detection
+- URL extraction
+- Risk scoring system
+- Phishing risk classification
+- Interactive dashboard
 
 ## 📌 Project Overview
 
